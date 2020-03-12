@@ -1,0 +1,11 @@
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\obj\Debug\netcoreapp3.0\Assignment.csprojAssemblyReference.cache
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\obj\Debug\netcoreapp3.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\obj\Debug\netcoreapp3.0\Assignment.AssemblyInfo.cs
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\bin\Debug\netcoreapp3.0\Assignment.exe
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\bin\Debug\netcoreapp3.0\Assignment.deps.json
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\bin\Debug\netcoreapp3.0\Assignment.runtimeconfig.json
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\bin\Debug\netcoreapp3.0\Assignment.runtimeconfig.dev.json
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\bin\Debug\netcoreapp3.0\Assignment.dll
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\bin\Debug\netcoreapp3.0\Assignment.pdb
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\obj\Debug\netcoreapp3.0\Assignment.dll
+C:\Users\Katrina\source\Class Exercise\Assignment\Assignment\obj\Debug\netcoreapp3.0\Assignment.pdb
